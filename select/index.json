@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Whiplash",
+  "base_artist": "aespa",
+  "createdAt": "2026-01-08T05:48:40.009580Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Whiplash (feat. Reeps One)",
+      "artist": "Bassnectar feat. Gnar Gnar & Reeps One",
+      "has_synced": false,
+      "path": "select/01_Whiplash_(feat._Reeps_One)_Bassnectar_feat._Gnar_Gnar_&_Reeps_One.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Whiplash (feat. Reeps One)",
+      "artist": "Bassnectar & Gnar Gnar",
+      "has_synced": false,
+      "path": "select/02_Whiplash_(feat._Reeps_One)_Bassnectar_&_Gnar_Gnar.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Whiplash",
+      "artist": "Motörhead",
+      "has_synced": true,
+      "path": "select/03_Whiplash_Motörhead.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Whiplash (Metallica)",
+      "artist": "Motörhead",
+      "has_synced": true,
+      "path": "select/04_Whiplash_(Metallica)_Motörhead.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Whiplash",
+      "artist": "Metallica",
+      "has_synced": true,
+      "path": "select/05_Whiplash_Metallica.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Whiplash",
+      "artist": "Metallica",
+      "has_synced": true,
+      "path": "select/06_Whiplash_Metallica.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Whiplash (Live / Seattle '89)",
+      "artist": "Metallica",
+      "has_synced": true,
+      "path": "select/07_Whiplash_(Live___Seattle_'89)_Metallica.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Whiplash (Special Neckbrace Remix)",
+      "artist": "Metallica",
+      "has_synced": true,
+      "path": "select/08_Whiplash_(Special_Neckbrace_Remix)_Metallica.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Whiplash",
+      "artist": "Sunglasses",
+      "has_synced": true,
+      "path": "select/09_Whiplash_Sunglasses.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Whiplash",
+      "artist": "Fish",
+      "has_synced": false,
+      "path": "select/10_Whiplash_Fish.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Whiplash",
+      "artist": "Selena Gomez & The Scene",
+      "has_synced": true,
+      "path": "select/11_Whiplash_Selena_Gomez_&_The_Scene.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Whiplash",
+      "artist": "Pressed feat. Rarin",
+      "has_synced": true,
+      "path": "select/12_Whiplash_Pressed_feat._Rarin.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Whiplash",
+      "artist": "Pressed",
+      "has_synced": true,
+      "path": "select/13_Whiplash_Pressed.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Whiplash",
+      "artist": "Metallica",
+      "has_synced": true,
+      "path": "select/14_Whiplash_Metallica.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Whiplash",
+      "artist": "aespa",
+      "has_synced": false,
+      "path": "select/pl_01_Whiplash_aespa.txt"
+    }
+  ]
+}
